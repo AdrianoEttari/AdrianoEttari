@@ -1,9 +1,9 @@
 # Hello World! <img src="https://github.com/adryduty/adryduty/blob/main/world.git.gif" width="40" height="40">
-I'm Adriano Ettari and I'm firstly Italian 🇮🇹. I'm an enthusiastic Data Scientist and currently I work as research assistant at the University of Naples, Federico II.
+My name is Adriano Ettari 🇮🇹. I'm an enthusiastic Data Scientist and I'm currently working as research assistant at the University of Naples, Federico II.
 
 * 🏡 I love being with my family and friends, they are everything to me.
 * 🏋️  Passionate about Fitness and sports in general.
-* ✈️ I love to travel and get to know new places and cultures.
+* ✈️ I love to travel and get to know new places, people and cultures.
 * 🧐 I am very determined and curious about new things.
 * 💻 I love tech.
 
